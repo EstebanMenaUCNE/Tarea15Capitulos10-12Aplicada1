@@ -15,7 +15,7 @@ namespace Tarea15Capitulos10_12Aplicada1
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new FrmMain());
         }
     }
 }
