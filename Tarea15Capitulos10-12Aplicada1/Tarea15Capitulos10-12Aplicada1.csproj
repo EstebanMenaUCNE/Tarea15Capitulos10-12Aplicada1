@@ -44,11 +44,16 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Ejercicio1.cs" />
-    <Compile Include="Ejercicio2.cs" />
-    <Compile Include="Ejercicio3.cs" />
-    <Compile Include="Ejercicio4.cs" />
-    <Compile Include="Ejercicio5.cs" />
+    <Compile Include="EjerciciosCapitulo10\Ejercicio1.cs" />
+    <Compile Include="EjerciciosCapitulo10\Ejercicio2.cs" />
+    <Compile Include="EjerciciosCapitulo10\Ejercicio3.cs" />
+    <Compile Include="EjerciciosCapitulo10\Ejercicio4.cs" />
+    <Compile Include="EjerciciosCapitulo10\Ejercicio5.cs" />
+    <Compile Include="EjerciciosCapitulo12\Ejercicio1.cs" />
+    <Compile Include="EjerciciosCapitulo12\Ejercicio2.cs" />
+    <Compile Include="EjerciciosCapitulo12\Ejercicio3.cs" />
+    <Compile Include="EjerciciosCapitulo12\Ejercicio4.cs" />
+    <Compile Include="EjerciciosCapitulo12\Ejercicio5.cs" />
     <Compile Include="FrmMain.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -79,6 +84,7 @@
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

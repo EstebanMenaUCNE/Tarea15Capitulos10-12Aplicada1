@@ -15,7 +15,9 @@ namespace Tarea15Capitulos10_12Aplicada1
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
+            EjerciciosCapitulo12.Ejercicio1.Factorial();
             Application.Run(new FrmMain());
+            
         }
     }
 }
