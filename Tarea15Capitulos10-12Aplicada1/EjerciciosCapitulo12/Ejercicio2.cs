@@ -29,5 +29,6 @@ namespace Tarea15Capitulos10_12Aplicada1.EjerciciosCapitulo12
             Console.WriteLine("El factorial de {0} es {1}", numero, factorial);
         }
 
+
     }
 }

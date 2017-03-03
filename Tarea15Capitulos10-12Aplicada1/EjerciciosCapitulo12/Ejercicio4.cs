@@ -9,5 +9,6 @@ namespace Tarea15Capitulos10_12Aplicada1.EjerciciosCapitulo12
 
     public class Ejercicio4
     {
+
     }
 }
